@@ -1,0 +1,8 @@
+path: C:/Users/Game/Documents/dice_dataset
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['1', '2', '3', '4', '5', '6']
+    
